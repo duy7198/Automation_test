@@ -1,0 +1,14 @@
+driver = "http://127.0.0.1:4723"
+jivePath = {"app": "C:\\Program Files\\Arevo Inc\\Highlander\\JiveWizard\\JiveInstallerUI.exe"}
+robotPath = {"app": "C:\\Program Files (x86)\\ABB\RobotStudio 2020\\Bin\\RobotStudio.exe"}
+robotRecentPrj = "CmdList_BackstageRecentStation"
+jiveVersion = "Jive Wizard - v2.13.0"
+ipRobot = "127.0.0.1"
+ipNone = ''
+findRobot = "Find Robots"
+ipRobotBox = "Enter x,y,z vector components of notch vector in this format: 1,2,3"
+connect = "Connect"
+connected = "Connected"
+disconnected = "Disconnected"
+robotStatus = "Controller status: 1/1"
+robotAuto = "4600-800704 (Station): 10011 - Motors ON state"
