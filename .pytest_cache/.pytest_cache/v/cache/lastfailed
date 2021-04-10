@@ -1,0 +1,8 @@
+{
+  "result.py::MyTestCase::test5_ConnectRobotLifeTime": true,
+  "testcase.py::MyTestCase::test1_VerifyGUI": true,
+  "testcase.py::MyTestCase::test2_FindNoneRobot": true,
+  "testcase.py::MyTestCase::test3_FindRobot": true,
+  "testcase.py::MyTestCase::test4_ConnectRobot": true,
+  "testcase.py::MyTestCase::test5_ConnectRobotLifeTime": true
+}

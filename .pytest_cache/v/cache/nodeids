@@ -1,0 +1,7 @@
+[
+  "testcase.py::Test::test1_VerifyGUI",
+  "testcase.py::Test::test2_FindNoneRobot",
+  "testcase.py::Test::test3_FindRobot",
+  "testcase.py::Test::test4_ConnectRobot",
+  "testcase.py::Test::test5_ConnectRobotLifeTime"
+]
