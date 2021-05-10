@@ -2,9 +2,9 @@
 
 ##  Setup environment:
 1. Enable Developer mode on Window
-2. Install WinAppDriver, Python and Pycharm
+2. Install WinAppDriver, Python and Pycharm \
 		- Link download https://drive.google.com/drive/folders/11BLHStrN5Tse9bcVN-c29agVNaIXfbS7?usp=sharing \
-		- Link setup guideline: https://testautomationu.applitools.com/winappdriver-tutorial/chapter1.html \
+		- Link setup guideline: https://testautomationu.applitools.com/winappdriver-tutorial/chapter1.html
 3. Copy all library folders in Lib folder from above link and paste them to the library folder of Python. It will be "C:Python39Lib" if you follow the guideline.
 
 ##  Setup Test runner in Pycharm: 
